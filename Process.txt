@@ -1,0 +1,8 @@
+But until recently, full-frontal male nudity remained rare enough. 
+
+1. Break string into tokens
+2. Given a token, give the phonetic string
+	 a. Look up known words
+	 b. Apply rules to unknown words
+	 c. Update known words with unknown word transcriptions?
+3. Recombine these tokens into a string
