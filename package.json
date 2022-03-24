@@ -1,0 +1,8 @@
+{
+  "name": "syllables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ned Watson <watsonle@iastate.edu>",
+  "license": "GNU GPL 3",
+  "type": "module"
+}
